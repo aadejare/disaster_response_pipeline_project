@@ -2,7 +2,7 @@
 
 Turns text into most relevant topics
 
-##Summary
+## Summary
 This pipeline will clean the data to create a cross category of genre and topics to allow 
 for better classification
 It will then train a Extreme Gradient Boosting model and output the relevant topics.
